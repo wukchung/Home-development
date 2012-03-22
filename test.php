@@ -9,7 +9,7 @@
 
 explode('aa', 'sdfsaaafasdfsf');
 
-class root extends traa {
+class root extends truzaiadaa {
     final function traaa() {
         return test;
     }
