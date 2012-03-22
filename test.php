@@ -10,7 +10,7 @@
 explode('aa', 'sdfsaaafasdfsf');
 
 class root extends traa {
-    final function traaa() {
+    final function traerraaa() {
         return test;
     }
 }
